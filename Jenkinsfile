@@ -45,7 +45,7 @@ pipeline {
                   BUILD_ID=stayAlive 
                   source venv/bin/activate
                   mkdir -p /home/ubuntu/scripts
-                  curl -o /home/ubuntu/scripts/setup.sh URL
+                  curl -o https://raw.githubusercontent.com/joesghub/microblog_VPC_deployment/refs/heads/main/scripts/setup.sh /home/ubuntu/scripts/setup.sh URL
                   chmod +x /home/ubuntu/scripts/setup.sh
                   ./home/ubuntu/scripts/setup.sh
                   '''
