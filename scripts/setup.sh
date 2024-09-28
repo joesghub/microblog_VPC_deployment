@@ -4,7 +4,7 @@
 APP_SERVER_IP="10.0.18.201" #private ip
 WEB_SERVER_IP=" "
 APP_SSH_KEY="/home/ubuntu/keys/microblog_app_server.pem" #on web server
-JENKINS_SSH_KEY="/home/ubuntu/..."
+JENKINS_SSH_KEY="home/ubuntu/.ssh/jenkins_key"
 REMOTE_USER="ubuntu"
 REMOTE_SCRIPT="start_app.sh"
 RAW_REMOTE="https://raw.githubusercontent.com/joesghub/microblog_VPC_deployment/refs/heads/main/scripts/start_app.sh"
