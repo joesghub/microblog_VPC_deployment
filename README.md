@@ -236,5 +236,11 @@ This documentation ensures the system can be understood, reviewed, and improved 
 - VPC design with public and private subnet segmentation
 - Secure access patterns for private workloads
 - CI driven deployment across multiple hosts
+
+## 🤝🏾 Connect With Me
+
+- 🌐 [Kura Labs](https://www.kuralabs.org/)
+- 💼 [LinkedIn – Joe Reynolds](https://www.linkedin.com/in/joeslnkdin/)
+- ✉️ [joekuralabs@gmail.com](mailto:joekuralabs@gmail.com)
 - Reverse proxy setup for private application access
 - Monitoring fundamentals with Prometheus and Grafana
